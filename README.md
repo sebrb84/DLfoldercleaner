@@ -9,5 +9,5 @@ People, like me, lacking a strict file discipline tend to accumulate files in th
 Getting the folder data into a dataframe: done
 Exploring possible analysis methods to identify relevant information: in progress
 
-##Tech used
+## Tech used
 Python & Jupyter Notebooks
