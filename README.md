@@ -6,8 +6,9 @@ When migrating user information to a new install I observed that the Downloads f
 People, like me, lacking a strict file discipline tend to accumulate files in the Download folder and clutter their main drive needlessly. As making a big spring cleaning is tedious, I would much prefer to treat a handful of files regularly. Ideally a script would propose files to delete from time to time.
 
 ## Status
-Getting the folder data into a dataframe: done
-Exploring possible analysis methods to identify relevant information: in progress
+Getting and exploring data: done
+
+Next steps will be writing the executable script.
 
 ## Tech used
 Python & Jupyter Notebooks
